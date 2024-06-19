@@ -1,0 +1,39 @@
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\appsettings.json
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\Services.deps.json
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\Services.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\Services.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\DataAccessObjects.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\Repositories.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\Repositories.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\Services.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\refint\Services.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\Services.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\Services\obj\Debug\net8.0\ref\Services.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\Services.deps.json
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\Services.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\Services.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\BusinessObjects.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\DataAccessObjects.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\Repositories.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\BusinessObjects.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\Repositories.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\refint\Services.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\Services.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\Services\obj\Debug\net8.0\ref\Services.dll

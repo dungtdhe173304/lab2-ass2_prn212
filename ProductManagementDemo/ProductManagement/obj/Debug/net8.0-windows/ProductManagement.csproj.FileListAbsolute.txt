@@ -1,0 +1,136 @@
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\appsettings.json
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.exe
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.deps.json
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.runtimeconfig.json
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\DataAccessObjects.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Repositories.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Services.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\DataAccessObjects.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Repositories.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Services.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.csproj.AssemblyReference.cache
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\App.g.cs
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.cache
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.lref
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.baml
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.g.resources
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.AssemblyInfoInputs.cache
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.AssemblyInfo.cs
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.csproj.CoreCompileInputs.cache
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductM.8086A758.Up2Date
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\refint\ProductManagement.dll
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.pdb
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.genruntimeconfig.cache
+D:\SUMMER2024-Ki5\PRN212\ass2\C-Sharp-Basic-398442e6a8554c4b4f75c21b981fd34b66f75a23\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ref\ProductManagement.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\appsettings.json
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.exe
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.deps.json
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.runtimeconfig.json
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\ProductManagement.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\DataAccessObjects.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Repositories.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Services.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\DataAccessObjects.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Repositories.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\bin\Debug\net8.0-windows\Services.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.csproj.AssemblyReference.cache
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\App.g.cs
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.cache
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement_MarkupCompile.lref
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\MainWindow.baml
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.g.resources
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.AssemblyInfoInputs.cache
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.AssemblyInfo.cs
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.csproj.CoreCompileInputs.cache
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductM.8086A758.Up2Date
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\refint\ProductManagement.dll
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.pdb
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ProductManagement.genruntimeconfig.cache
+D:\SUMMER2024-Ki5\PRN212\submit lab2 ass2\ProductManagementDemo\ProductManagement\obj\Debug\net8.0-windows\ref\ProductManagement.dll

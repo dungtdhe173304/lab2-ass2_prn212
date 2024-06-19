@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB06E3B-8D60-4D23-8E13-4D3895463359}|ManageHotel\\ManageHotel.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\managehotel\\model\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB06E3B-8D60-4D23-8E13-4D3895463359}|ManageHotel\\ManageHotel.csproj|solutionrelative:managehotel\\model\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB06E3B-8D60-4D23-8E13-4D3895463359}|ManageHotel\\ManageHotel.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\managehotel\\model\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB06E3B-8D60-4D23-8E13-4D3895463359}|ManageHotel\\ManageHotel.csproj|solutionrelative:managehotel\\model\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB06E3B-8D60-4D23-8E13-4D3895463359}|ManageHotel\\ManageHotel.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\managehotel\\model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB06E3B-8D60-4D23-8E13-4D3895463359}|ManageHotel\\ManageHotel.csproj|solutionrelative:managehotel\\model\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\roomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\roomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\dialog\\updatedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\dialog\\updatedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\dialog\\piechart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\dialog\\piechart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\dialog\\addroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\dialog\\addroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\dialog\\adddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\dialog\\adddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\thieuducdungwpf\\view\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6A548F8-80DD-4552-8B51-9D77CFBBD0E7}|ThieuDucDungWPF\\ThieuDucDungWPF.csproj|solutionrelative:thieuducdungwpf\\view\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB06E3B-8D60-4D23-8E13-4D3895463359}|ManageHotel\\ManageHotel.csproj|D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\managehotel\\data\\daocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB06E3B-8D60-4D23-8E13-4D3895463359}|ManageHotel\\ManageHotel.csproj|solutionrelative:managehotel\\data\\daocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryWindow.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\HistoryWindow.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\HistoryWindow.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\HistoryWindow.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\HistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T00:47:48.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ManageHotel\\Model\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "ManageHotel\\Model\\BookingReservation.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ManageHotel\\Model\\BookingReservation.cs",
+              "RelativeToolTip": "ManageHotel\\Model\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:40:29.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ManageHotel\\Model\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "ManageHotel\\Model\\RoomInformation.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ManageHotel\\Model\\RoomInformation.cs",
+              "RelativeToolTip": "ManageHotel\\Model\\RoomInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:57:30.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ManageHotel\\Model\\RoomType.cs",
+              "RelativeDocumentMoniker": "ManageHotel\\Model\\RoomType.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ManageHotel\\Model\\RoomType.cs",
+              "RelativeToolTip": "ManageHotel\\Model\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:24:32.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\appsettings.json",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\appsettings.json",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\appsettings.json",
+              "RelativeToolTip": "ThieuDucDungWPF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T02:12:09.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Login.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\Login.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Login.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T00:46:09.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\ReportWindow.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\ReportWindow.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T00:46:08.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomWindow.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\RoomWindow.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\RoomWindow.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\RoomWindow.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\RoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T00:46:06.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateDialog.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Dialog\\UpdateDialog.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\Dialog\\UpdateDialog.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Dialog\\UpdateDialog.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\Dialog\\UpdateDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T00:45:31.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddRoom.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Dialog\\AddRoom.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\Dialog\\AddRoom.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Dialog\\AddRoom.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\Dialog\\AddRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T00:45:25.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddDialog.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Dialog\\AddDialog.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\Dialog\\AddDialog.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Dialog\\AddDialog.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\Dialog\\AddDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T00:45:18.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Admin.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\Admin.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Admin.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T06:05:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PieChart.xaml",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Dialog\\PieChart.xaml",
+              "RelativeDocumentMoniker": "ThieuDucDungWPF\\View\\Dialog\\PieChart.xaml",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ThieuDucDungWPF\\View\\Dialog\\PieChart.xaml",
+              "RelativeToolTip": "ThieuDucDungWPF\\View\\Dialog\\PieChart.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T06:05:18.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DAOContext.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ManageHotel\\Data\\DAOContext.cs",
+              "RelativeDocumentMoniker": "ManageHotel\\Data\\DAOContext.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\Assignment01_HotelManagement\\ThieuDucDung_HE173304_A02\\ManageHotel\\Data\\DAOContext.cs",
+              "RelativeToolTip": "ManageHotel\\Data\\DAOContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:00:17.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

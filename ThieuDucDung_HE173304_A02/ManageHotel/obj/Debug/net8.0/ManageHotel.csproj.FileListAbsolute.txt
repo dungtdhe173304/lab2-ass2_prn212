@@ -1,0 +1,12 @@
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.deps.json
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.dll
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.pdb
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.csproj.AssemblyReference.cache
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.AssemblyInfoInputs.cache
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.AssemblyInfo.cs
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.csproj.CoreCompileInputs.cache
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.dll
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\refint\ManageHotel.dll
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.pdb
+D:\SUMMER2024-Ki5\Assignment01_HotelManagement\ThieuDucDung_HE173304_A01\ManageHotel\obj\Debug\net8.0\ref\ManageHotel.dll
